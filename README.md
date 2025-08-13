@@ -90,17 +90,15 @@ This dataset, sourced from the UCI Machine Learning Repository, contains data fr
 
  
 
-| Model                  | Train Accuracy | Test Accuracy | Notes                          |
+##  Model Performance Comparison
 
-|-----------------------|----------------|---------------|--------------------------------|
+| Model                   | Train Accuracy | Test Accuracy | Notes                             |
+|------------------------|----------------|----------------|-----------------------------------|
+| Logistic Regression    | High           | High           | Consistent performance            |
+| K-Nearest Neighbors    | High           | Lower          | Overfits training data            |
+| Decision Tree          | Very High      | Lower          | Fast training, poor generalization |
+| Support Vector Machine | High           | High           | Long training time, consistent    |
 
-| Logistic Regression   | High           | High          | Consistent performance         |
-
-| K-Nearest Neighbors   | High           | Lower         | Overfits training data         |
-
-| Decision Tree         | Very High      | Lower         | Fast training, poor generalization |
-
-| Support Vector Machine| High           | High          | Long training time, consistent |
 
  
 
