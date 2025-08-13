@@ -100,7 +100,6 @@ This dataset, sourced from the UCI Machine Learning Repository, contains data fr
 | Support Vector Machine | High           | High           | Long training time, consistent    |
 
 
- 
 
 ### Hyperparameter Tuning
 
@@ -110,6 +109,10 @@ This dataset, sourced from the UCI Machine Learning Repository, contains data fr
 
 - The class imbalance remained a limiting factor
 
+ Refer to Hyperparameter Tuning Results under the data folder 
+1. Base-Analysis.png
+2. HyperParameter-Tuning-Test1.png
+3. HyperParameter-Tuning-Test2.png
  
 
 ## Confusion Matrix and Balancing
